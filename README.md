@@ -1,4 +1,4 @@
-# I am Jongwon Song, a student at [SEOULTECH](https://en.seoultech.ac.kr/).
+# I am Jongwon Song, a student at [SEOULTECH](https://www.seoultech.ac.kr/).
 
 ## My interests include
 
